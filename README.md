@@ -1,4 +1,4 @@
-# Stock_Market
+
 # Stock Market Sentiment Analysis using Sentence Transformers and Random Forest
 
 ##  Project Overview
